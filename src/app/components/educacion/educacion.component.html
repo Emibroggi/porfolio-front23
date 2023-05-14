@@ -1,0 +1,50 @@
+<div class="educacion row">
+  <div class="col-12 educ">
+    <div class="blank m-5">
+      <table>
+        <tbody>
+          <tr>
+            <td class="col-3 p-2 text-secondary"><h3>EDUCACION</h3></td>
+            <td class="col-4 text-secondary">
+              <h3>DESCRIPCION EDUCACION</h3>
+            </td>
+            <td class="col-3 d-inline-flex p-4">
+              <button
+                type="button"
+                class="btn btn-outline-success"
+                routerLink="/newedu">
+                <span class="material-symbols-outlined"> add_box </span>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-9 m-5">
+      <table class="table">
+        <tbody>
+          <tr *ngFor="let Educacion of educacion">
+            <td class="col-5">{{ Educacion.nombreE }}</td>
+            <td class="col-5">{{ Educacion.descripcionE }}</td>
+            <td class="col-1">
+              <button
+                type="button"
+                class="btn btn-outline-success"
+                routerLink="/editedu/{{ Educacion.id }}">
+                <span class="material-symbols-outlined"> edit </span>
+              </button>
+            </td>
+            <td class="col-1">
+              <button
+                type="button"
+                class="btn btn-danger"
+                (click)="delete(Educacion.id)">
+                <span class="material-symbols-outlined"> delete</span>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

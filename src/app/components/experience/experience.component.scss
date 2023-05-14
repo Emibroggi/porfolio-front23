@@ -1,0 +1,24 @@
+.proyects {
+  color: aliceblue;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(42, 41, 41, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+.table {
+  color: white;
+}
+
+.proy {
+  opacity: 0.5;
+}
+
+.proy:hover {
+  opacity: 1;
+}
+.exper {
+  margin-left: 70px;
+}

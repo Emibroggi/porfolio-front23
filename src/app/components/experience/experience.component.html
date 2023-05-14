@@ -1,0 +1,95 @@
+<div class="content">
+  <div class="proyects row">
+    <div>
+      <h2 class="py-2 col-12 text-center">
+        <u>PROYECTOS Y EXPERIENCIA</u>
+      </h2>
+    </div>
+    <div>
+      <div class="d-flex p-2 exper justify-content-center">
+        <div class="p-5 flex-fill proy">
+          <div class="d-inline-flex justify-content-center">
+            <a
+              aria-label="Click Counter"
+              href="https://github.com/Emibroggi/click-counter"
+              target="_blank">
+              <img
+                class="rounded"
+                alt="Click Counter"
+                src="../../../assets/imgs/click.png"
+                style="height: 255px"
+                width="235px" />
+            </a>
+          </div>
+        </div>
+
+        <div class="p-5 flex-fill proy">
+          <div class="d-flex justify-content-center opacity-50">
+            <a
+              aria-label="Calculadora"
+              href="https://github.com/Emibroggi/Calculator"
+              target="_blank">
+              <img
+                class="rounded"
+                alt="Calculator"
+                src="../../../assets/imgs/calcu.png"
+                style="height: 255px"
+                width="215px" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="text-center pb-5">
+      <p>Ambas App fueron creadas con React.</p>
+    </div>
+    <div class="exper">
+      <div class="blank m-5">
+        <table>
+          <tbody>
+            <tr>
+              <td class="col-3 p-2 text-secondary"><h3>EXPERIENCIA</h3></td>
+              <td class="col-4 text-secondary">
+                <h3>DESCRIPCION DEL PUESTO</h3>
+              </td>
+              <td class="col-3 d-inline-flex p-3">
+                <button
+                  type="button"
+                  class="btn btn-outline-success"
+                  routerLink="/create">
+                  <span class="material-symbols-outlined"> add_box </span>
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-9 m-5">
+        <table class="table">
+          <tbody>
+            <tr *ngFor="let experience of expe">
+              <td class="col-5">{{ experience.nombreE }}</td>
+              <td class="col-5">{{ experience.descripcionE }}</td>
+              <td class="col-1">
+                <button
+                  type="button"
+                  class="btn btn-outline-success"
+                  routerLink="/editexp/{{ experience.id }}">
+                  <span class="material-symbols-outlined"> edit </span>
+                </button>
+              </td>
+              <td class="col-1">
+                <button
+                  type="button"
+                  class="btn btn-danger"
+                  (click)="delete(experience.id)">
+                  <span class="material-symbols-outlined"> delete</span>
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

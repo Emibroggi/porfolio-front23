@@ -1,0 +1,29 @@
+.img-about-me {
+  background-image: url('../../../assets/imgs/fondonew.png');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 40em;
+  background-color: black;
+  color: white;
+  background-position: right;
+}
+.icon {
+  color: rgb(184, 180, 180);
+  font-size: 2em;
+}
+.title:hover {
+  color: cyan;
+}
+
+.titl:hover {
+  color: rgb(91, 123, 238);
+}
+.about {
+  opacity: 0.1;
+}
+.about:hover {
+  opacity: 0.4;
+}
+.leter {
+  letter-spacing: 2px;
+}

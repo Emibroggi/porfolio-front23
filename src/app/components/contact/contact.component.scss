@@ -1,0 +1,41 @@
+.contact {
+  background-image: url('../../../assets/imgs/contact.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 30em;
+  background-color: black;
+  color: white;
+  background-position: right;
+  width: 100%;
+}
+
+.icon {
+  color: rgb(214, 228, 228);
+  font-size: 2em;
+  padding-left: 2em;
+}
+
+.icon:hover {
+  color: rgb(85, 253, 186);
+}
+
+.form-control {
+  background-color: rgb(214, 228, 228);
+}
+.text-secondar {
+  color: rgb(161, 164, 166);
+}
+
+.wtsp {
+  padding-left: 6em;
+}
+.cont {
+  opacity: 0.2;
+}
+.cont:hover {
+  opacity: 0.5;
+}
+
+.ico {
+  padding-top: 3em;
+}
