@@ -65,3 +65,198 @@ Before we get started, keep in mind:
 [info] 
 [info] +  Success! Logged into GitHub as Emibroggi 
 [info] 
+[debug] [2023-05-15T21:37:04.544Z] >>> [apiv2][query] GET https://api.github.com/repos/Emiibroggi/portfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:37:04.865Z] <<< [apiv2][status] GET https://api.github.com/repos/Emiibroggi/portfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:37:04.866Z] <<< [apiv2][body] GET https://api.github.com/repos/Emiibroggi/portfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:37:21.623Z] >>> [apiv2][query] GET https://api.github.com/repos/Emiibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:37:21.923Z] <<< [apiv2][status] GET https://api.github.com/repos/Emiibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:37:21.923Z] <<< [apiv2][body] GET https://api.github.com/repos/Emiibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:37:44.609Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:37:44.926Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:37:44.927Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:38:14.182Z] >>> [apiv2][query] GET https://api.github.com/repos/format: emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:38:15.058Z] <<< [apiv2][status] GET https://api.github.com/repos/format: emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:38:15.059Z] <<< [apiv2][body] GET https://api.github.com/repos/format: emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:38:33.439Z] >>> [apiv2][query] GET https://api.github.com/repos/format: emibroggi/porfolio-front2/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:38:33.988Z] <<< [apiv2][status] GET https://api.github.com/repos/format: emibroggi/porfolio-front2/actions/secrets/public-key 401
+[debug] [2023-05-15T21:38:33.988Z] <<< [apiv2][body] GET https://api.github.com/repos/format: emibroggi/porfolio-front2/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:38:53.463Z] >>> [apiv2][query] GET https://api.github.com/repos/format:emibroggi/porfolio-front2/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:38:54.073Z] <<< [apiv2][status] GET https://api.github.com/repos/format:emibroggi/porfolio-front2/actions/secrets/public-key 401
+[debug] [2023-05-15T21:38:54.073Z] <<< [apiv2][body] GET https://api.github.com/repos/format:emibroggi/porfolio-front2/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:39:34.551Z] >>> [apiv2][query] GET https://api.github.com/repos/format:emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:39:34.850Z] <<< [apiv2][status] GET https://api.github.com/repos/format:emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:39:34.850Z] <<< [apiv2][body] GET https://api.github.com/repos/format:emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:39:46.352Z] >>> [apiv2][query] GET https://api.github.com/repos/format :emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:39:46.655Z] <<< [apiv2][status] GET https://api.github.com/repos/format :emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:39:46.656Z] <<< [apiv2][body] GET https://api.github.com/repos/format :emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:40:15.728Z] >>> [apiv2][query] GET https://api.github.com/repos/(format: emibroggi-porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:40:16.133Z] <<< [apiv2][status] GET https://api.github.com/repos/(format: emibroggi-porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:40:16.134Z] <<< [apiv2][body] GET https://api.github.com/repos/(format: emibroggi-porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:40:20.191Z] >>> [apiv2][query] GET https://api.github.com/repos/(format: emibroggi-porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:40:20.476Z] <<< [apiv2][status] GET https://api.github.com/repos/(format: emibroggi-porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T21:40:20.476Z] <<< [apiv2][body] GET https://api.github.com/repos/(format: emibroggi-porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:40:38.924Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: emibroggi-porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:40:39.228Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: emibroggi-porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T21:40:39.229Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: emibroggi-porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:40:51.012Z] >>> [apiv2][query] GET https://api.github.com/repos/public: emibroggi-porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:40:51.295Z] <<< [apiv2][status] GET https://api.github.com/repos/public: emibroggi-porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:40:51.295Z] <<< [apiv2][body] GET https://api.github.com/repos/public: emibroggi-porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:41:14.028Z] >>> [apiv2][query] GET https://api.github.com/repos/public: emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:41:14.350Z] <<< [apiv2][status] GET https://api.github.com/repos/public: emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:41:14.350Z] <<< [apiv2][body] GET https://api.github.com/repos/public: emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:41:25.882Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: emibroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:41:26.198Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: emibroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T21:41:26.198Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: emibroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:41:35.076Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: emibroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:41:35.648Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: emibroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T21:41:35.648Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: emibroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:45:00.672Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:45:00.992Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T21:45:00.992Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:45:06.119Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:45:06.420Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:45:06.420Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:45:32.785Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:45:32.788Z] >>> [apiv2][query] GET https://api.github.com/repos///actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:45:33.093Z] <<< [apiv2][status] GET https://api.github.com/repos///actions/secrets/public-key 401
+[debug] [2023-05-15T21:45:33.093Z] <<< [apiv2][body] GET https://api.github.com/repos///actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:45:33.096Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/actions/secrets/public-key 401
+[debug] [2023-05-15T21:45:33.096Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:45:52.883Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/Emibroggi/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:45:52.884Z] >>> [apiv2][query] GET https://api.github.com/repos///actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:45:53.184Z] <<< [apiv2][status] GET https://api.github.com/repos///actions/secrets/public-key 401
+[debug] [2023-05-15T21:45:53.184Z] <<< [apiv2][body] GET https://api.github.com/repos///actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:45:53.190Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/Emibroggi/actions/secrets/public-key 401
+[debug] [2023-05-15T21:45:53.190Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/Emibroggi/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:03.973Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:03.974Z] >>> [apiv2][query] GET https://api.github.com/repos///actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:04.259Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:04.259Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:04.263Z] <<< [apiv2][status] GET https://api.github.com/repos///actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:04.263Z] <<< [apiv2][body] GET https://api.github.com/repos///actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:06.092Z] >>> [apiv2][query] GET https://api.github.com/repos/porfolio-front23Emibroggi//actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:06.380Z] <<< [apiv2][status] GET https://api.github.com/repos/porfolio-front23Emibroggi//actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:06.380Z] <<< [apiv2][body] GET https://api.github.com/repos/porfolio-front23Emibroggi//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:09.893Z] >>> [apiv2][query] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:10.177Z] <<< [apiv2][status] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:10.178Z] <<< [apiv2][body] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:11.108Z] >>> [apiv2][query] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:11.341Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:11.406Z] <<< [apiv2][status] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:11.406Z] <<< [apiv2][body] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:11.935Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:11.935Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:12.116Z] >>> [apiv2][query] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:12.410Z] <<< [apiv2][status] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:12.410Z] <<< [apiv2][body] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:12.899Z] >>> [apiv2][query] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:13.380Z] <<< [apiv2][status] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:13.380Z] <<< [apiv2][body] GET https://api.github.com/repos/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:23.141Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:23.510Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:23.510Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:32.956Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:33.271Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:33.271Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:46:37.077Z] >>> [apiv2][query] GET https://api.github.com/repos/porfolio-front/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:46:37.655Z] <<< [apiv2][status] GET https://api.github.com/repos/porfolio-front/actions/secrets/public-key 401
+[debug] [2023-05-15T21:46:37.655Z] <<< [apiv2][body] GET https://api.github.com/repos/porfolio-front/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T21:48:35.447Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T21:48:35.752Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T21:48:35.752Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:01:26.908Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:01:27.298Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T22:01:27.298Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:01:28.228Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:01:28.788Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T22:01:28.788Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: Emibroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:02:19.020Z] >>> [apiv2][query] GET https://api.github.com/repos/(public:Emibroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:02:19.416Z] <<< [apiv2][status] GET https://api.github.com/repos/(public:Emibroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T22:02:19.416Z] <<< [apiv2][body] GET https://api.github.com/repos/(public:Emibroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:02:35.297Z] >>> [apiv2][query] GET https://api.github.com/repos/(public:Emibroggi/porfolio-front)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:02:35.599Z] <<< [apiv2][status] GET https://api.github.com/repos/(public:Emibroggi/porfolio-front)/actions/secrets/public-key 401
+[debug] [2023-05-15T22:02:35.599Z] <<< [apiv2][body] GET https://api.github.com/repos/(public:Emibroggi/porfolio-front)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:02:46.169Z] >>> [apiv2][query] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:02:46.727Z] <<< [apiv2][status] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key 401
+[debug] [2023-05-15T22:02:46.728Z] <<< [apiv2][body] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:02:47.849Z] >>> [apiv2][query] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:02:48.148Z] <<< [apiv2][status] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key 401
+[debug] [2023-05-15T22:02:48.148Z] <<< [apiv2][body] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:02:48.720Z] >>> [apiv2][query] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:02:49.308Z] <<< [apiv2][status] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key 401
+[debug] [2023-05-15T22:02:49.308Z] <<< [apiv2][body] GET https://api.github.com/repos/public:Emibroggi/porfolio-front/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:02:54.728Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/porfolio-front/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:02:55.042Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/porfolio-front/actions/secrets/public-key 401
+[debug] [2023-05-15T22:02:55.042Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/porfolio-front/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:03:03.825Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:03:04.168Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:03:04.168Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:03:18.089Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emilianobroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:03:18.378Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emilianobroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:03:18.378Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emilianobroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:05:27.855Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:05:28.164Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:05:28.164Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:05:36.247Z] >>> [apiv2][query] GET https://api.github.com/repos/emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:05:36.566Z] <<< [apiv2][status] GET https://api.github.com/repos/emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:05:36.566Z] <<< [apiv2][body] GET https://api.github.com/repos/emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:05:58.615Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:05:59.023Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:05:59.023Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:01.046Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:01.358Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:01.358Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:01.837Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:02.121Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:02.121Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:02.339Z] >>> [apiv2][query] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:02.374Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:02.403Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:02.632Z] <<< [apiv2][status] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:02.632Z] <<< [apiv2][body] GET https://api.github.com/repos/Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:02.663Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:02.664Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:02.680Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:02.680Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:07.974Z] >>> [apiv2][query] GET https://api.github.com/repos/user Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:08.741Z] <<< [apiv2][status] GET https://api.github.com/repos/user Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:08.741Z] <<< [apiv2][body] GET https://api.github.com/repos/user Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:16.270Z] >>> [apiv2][query] GET https://api.github.com/repos/format Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:16.554Z] <<< [apiv2][status] GET https://api.github.com/repos/format Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:16.554Z] <<< [apiv2][body] GET https://api.github.com/repos/format Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:06:21.966Z] >>> [apiv2][query] GET https://api.github.com/repos/format: Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:06:22.264Z] <<< [apiv2][status] GET https://api.github.com/repos/format: Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:06:22.264Z] <<< [apiv2][body] GET https://api.github.com/repos/format: Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:07:27.223Z] >>> [apiv2][query] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:07:27.544Z] <<< [apiv2][status] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:07:27.544Z] <<< [apiv2][body] GET https://api.github.com/repos/public: Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:07:36.327Z] >>> [apiv2][query] GET https://api.github.com/repos/public Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:07:36.621Z] <<< [apiv2][status] GET https://api.github.com/repos/public Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:07:36.621Z] <<< [apiv2][body] GET https://api.github.com/repos/public Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:07:44.351Z] >>> [apiv2][query] GET https://api.github.com/repos/public Emibroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:07:44.648Z] <<< [apiv2][status] GET https://api.github.com/repos/public Emibroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:07:44.648Z] <<< [apiv2][body] GET https://api.github.com/repos/public Emibroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:09.960Z] >>> [apiv2][query] GET https://api.github.com/repos/public EmilianoBroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:10.519Z] <<< [apiv2][status] GET https://api.github.com/repos/public EmilianoBroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:10.520Z] <<< [apiv2][body] GET https://api.github.com/repos/public EmilianoBroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:13.663Z] >>> [apiv2][query] GET https://api.github.com/repos/public EmilianoBroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:14.016Z] <<< [apiv2][status] GET https://api.github.com/repos/public EmilianoBroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:14.016Z] <<< [apiv2][body] GET https://api.github.com/repos/public EmilianoBroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:20.879Z] >>> [apiv2][query] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:21.203Z] <<< [apiv2][status] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:21.203Z] <<< [apiv2][body] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:22.759Z] >>> [apiv2][query] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:23.352Z] <<< [apiv2][status] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:23.352Z] <<< [apiv2][body] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:23.895Z] >>> [apiv2][query] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:24.179Z] <<< [apiv2][status] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:24.179Z] <<< [apiv2][body] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:33.846Z] >>> [apiv2][query] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:34.135Z] <<< [apiv2][status] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:34.136Z] <<< [apiv2][body] GET https://api.github.com/repos/public: EmilianoBroggi/porfolio-front23/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:41.422Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: EmilianoBroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:41.742Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: EmilianoBroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:41.743Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: EmilianoBroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-15T22:08:42.830Z] >>> [apiv2][query] GET https://api.github.com/repos/(public: EmilianoBroggi/porfolio-front23)/actions/secrets/public-key type=owner
+[debug] [2023-05-15T22:08:43.133Z] <<< [apiv2][status] GET https://api.github.com/repos/(public: EmilianoBroggi/porfolio-front23)/actions/secrets/public-key 401
+[debug] [2023-05-15T22:08:43.133Z] <<< [apiv2][body] GET https://api.github.com/repos/(public: EmilianoBroggi/porfolio-front23)/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
