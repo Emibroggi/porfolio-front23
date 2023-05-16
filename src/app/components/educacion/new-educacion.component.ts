@@ -21,11 +21,11 @@ export class NewEducacionComponent implements OnInit {
     this.educacionS.save(educacion).subscribe({
       next: data => {
         alert('Educacion añadida');
-        this.router.navigate(['']);
+        this.router.navigate(['home']);
       },
       error: err => {
         alert('Falló');
-        this.router.navigate(['']);
+        this.router.navigate(['home']);
       },
     });
   }
