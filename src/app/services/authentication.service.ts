@@ -7,7 +7,7 @@ import { persona } from '../model/person.model';
   providedIn: 'root',
 })
 export class AuthenticationService {
-  url = 'http://localhost:8080/';
+  url = 'https://backendeb.onrender.com/';
   currentUserSubjet: BehaviorSubject<any>;
   constructor(private httpClient: HttpClient) {
     this.currentUserSubjet = new BehaviorSubject<any>(

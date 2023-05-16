@@ -133,9 +133,9 @@ export class LoginComponent implements OnInit {
     if (this.email == 'broggi4@hotmail.com' && this.password == 'emibroggi22') {
       this.loggedIn = true;
       this.router.navigate(['/home']);
-      alert('iniciaste sesion');
+      alert('Iniciaste sesion');
     } else {
-      alert('fallo');
+      alert('Usuario o contraseña incorrecta');
     }
   }
 }
