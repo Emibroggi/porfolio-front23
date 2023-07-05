@@ -34,11 +34,11 @@ export class EditExperienceComponent implements OnInit {
     const id = this.activatedRouter.snapshot.params['id'];
     this.sExperience.update(id, this.expLab).subscribe({
       next: data => {
-        this.router.navigate(['']);
+        this.router.navigate(['/home']);
       },
       error: err => {
         alert('Error al modificar experienciaa');
-        this.router.navigate(['']);
+        this.router.navigate(['/home']);
       },
     });
   }

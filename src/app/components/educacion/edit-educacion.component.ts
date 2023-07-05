@@ -24,7 +24,7 @@ export class EditEducacionComponent implements OnInit {
       },
       error: err => {
         alert('Error al modificar educacion');
-        this.router.navigate(['']);
+        this.router.navigate(['/home']);
       },
     });
   }
@@ -33,11 +33,11 @@ export class EditEducacionComponent implements OnInit {
     const id = this.activatedRouter.snapshot.params['id'];
     this.educacionS.update(id, this.educacion).subscribe({
       next: data => {
-        this.router.navigate(['']);
+        this.router.navigate(['/home']);
       },
       error: err => {
         alert('Error al modificar educacion');
-        this.router.navigate(['']);
+        this.router.navigate(['/home']);
       },
     });
   }
